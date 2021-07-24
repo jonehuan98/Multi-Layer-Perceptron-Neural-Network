@@ -1,8 +1,3 @@
-# JONE CHONG 
-# 201533109 
-# MSC DATA SCIENCE AND ARTIFICIAL INTELLIGENCE
-# COMP INTELLIGENCE ASSIGNMENT 1 – 2021
-
 import numpy as np
 #from random import random
 import matplotlib.pyplot as plt
